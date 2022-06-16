@@ -7,15 +7,15 @@
 
 This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:
 
-#### [](https://github.com/San13deep/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING#executable-files)Executable Files:
+#### [](https://github.com/Shubham-naik-ai/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING#executable-files)Executable Files:
 
--   **NETFLIX MOVIES AND TV SHOWS CLUSTERING.ipynb**  - Includes all functions required for classification operations.
+-   **NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb**  - Includes all functions required for classification operations.
 
-#### [](https://github.com/San13deep/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING#output)Output:
+#### [](https://github.com/Shubham-naik-ai/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING#output)Output:
 
 -   **Google Colab**  - All the outputs are visible in the provided colab notebook.
 
-#### [](https://github.com/San13deep/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING#input-files)Input Files:
+#### [](https://github.com/Shubham-naik-ai/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING#input-files)Input Files:
 
 -   **NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv**  - Input dataset having information about different shows/movies available on Netflix.
 
